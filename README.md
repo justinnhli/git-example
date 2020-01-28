@@ -1,3 +1,5 @@
 git-example
 
-This is an example change to my repo.
+This is a change to my repo.
+
+Here is another change
